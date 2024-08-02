@@ -1,0 +1,28 @@
+
+header {
+    background-color: rgb(34, 35, 36);
+}
+
+.custom-h5 {
+    color: black;
+}
+
+.custom-p {
+    color:black;
+}
+
+.Biografia {
+    text-align: justify;
+    line-height: 2em;
+}
+
+.principal {
+    background-image: url(https://i.imgur.com/Yw7P3qs.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .contactenos {
+    background-color: rgb(201, 201, 201);
+  }
